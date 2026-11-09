@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CYPHER+X+BOT;WhatsApp+Automation+System;Multi+Pair+Servers;Easy+Deployment"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=TMT-XMD+V2;WhatsApp+Automation+System;Multi+Pair+Servers;Easy+Deployment"/>
 </h1>
 
 <p align="center">
@@ -7,7 +7,14 @@
 </p>
 
 <p align="center">
-Professional WhatsApp Automation Bot with Multi Pairing Servers and Easy Deployment
+TMT-XMD V2 - Professional WhatsApp Automation Bot with Multi Pairing Servers and Easy Deployment
+</p>
+
+<p align="center">
+
+[![Join Channel](https://img.shields.io/badge/Join-Channel-green?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb8iF2T7tkizg6TMWo3t)
+[![Join Group](https://img.shields.io/badge/Join-Group-blue?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/HohdSzZaw92CRO0Tp0JSLk)
+
 </p>
 
 ---
@@ -16,7 +23,7 @@ Professional WhatsApp Automation Bot with Multi Pairing Servers and Easy Deploym
 
 <p align="center">
 
-<a href="https://github.com/TristanCage/CypherX/fork">
+<a href="https://github.com/lenontmt/CypherX/fork">
 <img src="https://img.shields.io/badge/FORK%20REPOSITORY-gradient?style=for-the-badge&logo=github"/>
 </a>
 
@@ -95,7 +102,7 @@ https://youtube.com/shorts/Ds-hn6jYij8
 ### Deploy using Web Dashboard  
 https://www.youtube.com/watch?v=ynlDcv-MBFc
 
-### Deploy on CypherX Platform  
+### Deploy on TMT-XMD V2 Platform  
 https://youtu.be/lMheAzhjd24?si=8-vcXJLCrD0djKRB
 
 ---
@@ -120,12 +127,12 @@ https://youtu.be/lMheAzhjd24?si=8-vcXJLCrD0djKRB
 
 ---
 
-# 🚀 CypherX Platform
+# 🚀 TMT-XMD V2 Platform
 
 <p align="center">
 
 <a href="https://platform.cypherx.space">
-<img src="https://img.shields.io/badge/CYPHERX%20PLATFORM-0078ff?style=for-the-badge&logo=server"/>
+<img src="https://img.shields.io/badge/TMT--XMD--V2--PLATFORM-0078ff?style=for-the-badge&logo=server"/>
 </a>
 
 </p>
@@ -135,7 +142,7 @@ https://youtu.be/lMheAzhjd24?si=8-vcXJLCrD0djKRB
 # 📋 Requirements
 
 • Session ID  
-• Bot Name  
+• Bot Name - TMT-XMD V2  
 • Bot Repository Link or Bot File  
 • Minimum **30 Coins Balance**
 
@@ -145,7 +152,7 @@ https://youtu.be/lMheAzhjd24?si=8-vcXJLCrD0djKRB
 
 <p align="center">
 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/TristanCage/CypherX">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/lenontmt/CypherX">
 <img src="https://img.shields.io/badge/HEROKU-6762A6?style=for-the-badge&logo=heroku"/>
 </a>
 
@@ -161,6 +168,22 @@ https://youtu.be/lMheAzhjd24?si=8-vcXJLCrD0djKRB
 
 ---
 
+# 📢 Official Links
+
+<p align="center">
+
+<a href="https://whatsapp.com/channel/0029Vb8iF2T7tkizg6TMWo3t">
+<img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp"/>
+</a>
+
+<a href="https://chat.whatsapp.com/HohdSzZaw92CRO0Tp0JSLk">
+<img src="https://img.shields.io/badge/WhatsApp-Group-25D366?style=for-the-badge&logo=whatsapp"/>
+</a>
+
+</p>
+
+---
+
 # 👨‍💻 Developer
 
 <p align="center">
@@ -168,11 +191,11 @@ https://youtu.be/lMheAzhjd24?si=8-vcXJLCrD0djKRB
 </p>
 
 <p align="center">
-CypherX Developer
+TMT-XMD V2 Developer - TMT
 </p>
 
 ---
 
 <p align="center">
-⭐ If you like this project, please star the repository.
+⭐ If you like TMT-XMD V2, please star the repository.
 </p>
