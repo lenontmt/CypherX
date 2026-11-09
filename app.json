@@ -1,9 +1,9 @@
 {
-  "name": "CypherX",
-  "description": "CypherX, your friendly assistant!",
+  "name": "tmt-xmd-v2",
+  "description": "TMT-XMD V2, your friendly assistant!",
   "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
   "keywords": [],
-  "repository": "https://github.com/Dark-Xploit/CypherX",
+  "repository": "https://github.com/lenontmt/CypherX",
   "stack": "heroku-24",
   "addons": [
     {
@@ -15,9 +15,29 @@
   },
   "env": {
     "SESSION_ID": {
-      "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
+      "description": "Must begin with 'TMT-XMD-V2:~'.",
       "value": "",
       "required": true
+    },
+    "OWNER_NUMBER": {
+      "description": "Owner Number without + e.g 26377xxxxxxx",
+      "value": "",
+      "required": true
+    },
+    "PREFIX": {
+      "description": "Bot Prefix",
+      "value": ".",
+      "required": false
+    },
+    "BOT_NAME": {
+      "description": "Bot Name",
+      "value": "TMT-XMD V2",
+      "required": false
+    },
+    "MODE": {
+      "description": "Bot Mode - public / private",
+      "value": "public",
+      "required": false
     }
   },
   "buildpacks": [
