@@ -1,7 +1,7 @@
 {
-  "name": "CypherX",
-  "version": "1.9.0",
-  "description": "The best Whatsapp bot",
+  "name": "tmt-xmd-v2",
+  "version": "2.0.0",
+  "description": "TMT-XMD V2 - The best Whatsapp bot by TMT",
   "main": "cypher.js",
   "engines": {
     "node": ">=20 <25"
@@ -22,7 +22,7 @@
     "test:dashboard": "node scripts/test-dashboard.js",
     "test": "echo \"no tests\""
   },
-  "author": "Tylor",
+  "author": "TMT",
   "allowScripts": {
     "@google/genai": true,
     "@whiskeysockets/baileys": true,
